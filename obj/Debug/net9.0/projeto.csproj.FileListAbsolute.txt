@@ -1,0 +1,14 @@
+/Users/jenifercandidogomes/Desktop/Lista_1/projeto/bin/Debug/net9.0/projeto
+/Users/jenifercandidogomes/Desktop/Lista_1/projeto/bin/Debug/net9.0/projeto.deps.json
+/Users/jenifercandidogomes/Desktop/Lista_1/projeto/bin/Debug/net9.0/projeto.runtimeconfig.json
+/Users/jenifercandidogomes/Desktop/Lista_1/projeto/bin/Debug/net9.0/projeto.dll
+/Users/jenifercandidogomes/Desktop/Lista_1/projeto/bin/Debug/net9.0/projeto.pdb
+/Users/jenifercandidogomes/Desktop/Lista_1/projeto/obj/Debug/net9.0/projeto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jenifercandidogomes/Desktop/Lista_1/projeto/obj/Debug/net9.0/projeto.AssemblyInfoInputs.cache
+/Users/jenifercandidogomes/Desktop/Lista_1/projeto/obj/Debug/net9.0/projeto.AssemblyInfo.cs
+/Users/jenifercandidogomes/Desktop/Lista_1/projeto/obj/Debug/net9.0/projeto.csproj.CoreCompileInputs.cache
+/Users/jenifercandidogomes/Desktop/Lista_1/projeto/obj/Debug/net9.0/projeto.dll
+/Users/jenifercandidogomes/Desktop/Lista_1/projeto/obj/Debug/net9.0/refint/projeto.dll
+/Users/jenifercandidogomes/Desktop/Lista_1/projeto/obj/Debug/net9.0/projeto.pdb
+/Users/jenifercandidogomes/Desktop/Lista_1/projeto/obj/Debug/net9.0/projeto.genruntimeconfig.cache
+/Users/jenifercandidogomes/Desktop/Lista_1/projeto/obj/Debug/net9.0/ref/projeto.dll
