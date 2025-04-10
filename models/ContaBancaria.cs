@@ -5,7 +5,21 @@ namespace ContaApp
 {
     public class ContaBancaria
     {
-        public float Saldo;
+        private float saldo;
+        public float Saldo
+        {
+            get {return saldo;}
+            set
+            {
+                if (value >=0 )
+                    saldo = value;
+                else
+                    Console.WriteLine("o saldo n pode ser negativo.");
+
+            }
+
+        }
+
         public float ValorDepositado;
 
         public float ValorRetirado;
