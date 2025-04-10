@@ -4,8 +4,8 @@ namespace PessoaApp
 {
     public class Pessoa
     {
-       public string Nome;
-       public int Idade;
+       private string Nome {get; set;}
+       private int Idade {get; set;}
 
 
 
@@ -27,5 +27,30 @@ namespace PessoaApp
         Console.WriteLine($"sua idade comvertida em meses da: {idadeEmMes} meses");
         
     }
+
+
+    public string GetNome()
+        {
+            return Nome;
+        }
+
+        public void SetNome(string nome)
+        {
+            Nome = nome;
+        }
+
+       
+        public int GetIdade()
+        {
+            return Idade;
+        }
+
+        public void SetIdade(int idade)
+        {
+            Idade = idade;
+        }
+
     }
+
+
 }

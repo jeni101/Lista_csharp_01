@@ -14,6 +14,16 @@ public class Program
 
         pessoa.Mensagem();
 
+        // teste get e set
+
+        pessoa.SetNome("Jonas");
+        pessoa.SetIdade(13);
+        Console.WriteLine(pessoa.GetNome());
+        Console.WriteLine(pessoa.GetIdade());
+        pessoa.Mensagem();
+
+        
+
         // carro 
 
         Carro carro = new Carro("Ford", "Mustang", 2020);
