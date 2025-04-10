@@ -12,3 +12,4 @@
 /Users/jenifercandidogomes/Desktop/Lista_1/projeto/obj/Debug/net9.0/projeto.pdb
 /Users/jenifercandidogomes/Desktop/Lista_1/projeto/obj/Debug/net9.0/projeto.genruntimeconfig.cache
 /Users/jenifercandidogomes/Desktop/Lista_1/projeto/obj/Debug/net9.0/ref/projeto.dll
+/Users/jenifercandidogomes/Desktop/Lista_1/projeto/obj/Debug/net9.0/projeto.sourcelink.json
